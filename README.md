@@ -1,0 +1,2 @@
+# SpeedWifiX11PacketFilterHelper
+Wimax端末 Speed Wifi X11 のパケットフィルタ登録を補助するVBAツール
